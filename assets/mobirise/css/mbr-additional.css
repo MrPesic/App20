@@ -9330,14 +9330,6 @@ body {
 .cid-rzROXxxfVR .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rzSzQE61eh {
-  padding-top: 105px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rzSzQE61eh .mbr-section-subtitle {
-  color: #767676;
-}
 .cid-rzSxYmFNRM {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -9399,4 +9391,12 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rzSzQE61eh {
+  padding-top: 105px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rzSzQE61eh .mbr-section-subtitle {
+  color: #767676;
 }
